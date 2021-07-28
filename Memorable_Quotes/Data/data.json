@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Donald J. Trump",
+        "image": "reflect",
+        "quotes": [
+            "As long as we have faith in each other, and trust in God, then there is no goal, at all, beyond our reach. There is no dream too large, no task too great.",
+            "You have to think anyway, so why not think big?",
+            "Nothing is easy, but who wants nothing?",
+            "History is written by the dreamers, not the doubters.",
+            "Always try to learn from other people’s mistakes, not your own - its much cheaper that way."
+        ]
+    },
+    {
+        "name":"Rush Limbaugh",
+        "image": "ambition",
+        "quotes": [
+            "No nation has ever taxed itself into prosperity.",
+            "Liberals measure compassion by how many people are given welfare. Conservatives measure compassion by how many people no longer need it.",
+            "He's one fry short of a Happy Meal.",
+            "The way liberals are interpreting the First Amendment today is that it prevents anyone who is religious from being in government.",
+            "You know why there's a Second Amendment? In case the government fails to follow the first one."
+        ]
+    },
+    {
+        "name": "Clint Eastwood",
+        "image": "calm",
+        "quotes": [
+            "Tomorrow is promised to no one.",
+            "I'm interested in the fact that the less secure a man is, the more likely he is to have extreme prejudice.",
+            "I tried being reasonable, but I didn't like it.",
+            "Let's not go and ruin it by thinking too much.",
+            "Respect your efforts, respect yourself. Self-respect leads to self-discipline. When you have both firmly under your belt, that's real power.",
+            "I don't believe in pessimism. If something doesn't come up the way you want, forge ahead. If you think it's going to rain, it will."
+        ]
+    },
+    {
+        "name": "Ronald Reagan",
+        "image": "focus",
+        "quotes": [
+            "Government exists to protect us from each other. Where government has gone beyond its limits is in deciding to protect us from ourselves.",
+            "The greatest leader is not necessarily the one who does the greatest things. He is the one that gets the people to do the greatest things.",
+            "Freedom is never more than one generation away from extinction. We didn't pass it to our children in the bloodstream. It must be fought for, protected, and handed on for them to do the same, or one day we will spend our sunset years telling our children and our children's children what it was once like in the United States where men were free.",
+            "If we ever forget that we're one nation under God, then we will be one nation gone under.",
+            "There is no limit to the amount of good you can do if you don't care who gets the credit."
+        ]
+    }
+]
